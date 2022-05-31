@@ -1,0 +1,7 @@
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  .carousel{
+      border: 15px solid rgb(223, 220, 220);
+  }

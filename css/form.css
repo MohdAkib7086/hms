@@ -1,0 +1,17 @@
+.bcolor-or{
+    background-color: rgb(245, 171, 171);
+}
+.color-wh{
+  color : white;
+}
+.bcolor-bl{
+    background-color: black;
+    width: fit-content;
+}
+.login-form{
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border: flex;
+}
